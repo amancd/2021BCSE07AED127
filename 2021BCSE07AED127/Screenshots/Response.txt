@@ -1,0 +1,8 @@
+{
+  "companyName": "Alliance University",
+  "clientID": "552a8029-8643-4288-99fb-bee6edc988a1",
+  "clientSecret": "BlPaMFFMmBigoeBx",
+  "ownerName": "Aman Singh",
+  "ownerEmail": "samanbtech21@ced.alliance.edu.in",
+  "rollNo": "2021BCSE07AED127"
+}
